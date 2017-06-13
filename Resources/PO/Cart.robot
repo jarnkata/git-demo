@@ -7,3 +7,4 @@ Verify Product Added
 
 Proceed to Checkout
     Click Link  id=hlb-ptc-btn-native
+    Click Button  id=button1
